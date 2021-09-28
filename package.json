@@ -1,0 +1,29 @@
+{
+  "name": "exert-anyproxy",
+  "version": "0.1.0",
+  "description": "yet a anyproxy demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaosannals/exert-anyproxy.git"
+  },
+  "keywords": [
+    "proxy",
+    "anyproxy"
+  ],
+  "author": {
+    "name": "chaosannals",
+    "email": "chaosannals@outlook.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaosannals/exert-anyproxy/issues"
+  },
+  "homepage": "https://github.com/chaosannals/exert-anyproxy#readme",
+  "dependencies": {
+    "anyproxy": "^4.1.3"
+  }
+}
